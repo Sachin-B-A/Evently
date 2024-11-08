@@ -1,13 +1,14 @@
+
+
+
 <a name="readme-top"></a>
 
 # Evently - Event Management Platform using Next.js 14
 
-![Evently - Event Management Platform using Next.js 14]((https://github.com/sanidhyy/evently/raw/main/.github/images/img_main.png))
-
+![Evently - Event Management Platform using Next.js 14](https://ik.imagekit.io/unimzwtxr/eventylimage1.png?updatedAt=1731062871414)
 
 <!-- Table of Contents -->
 <details>
-
 <summary>
 
 # : Table of Contents
@@ -107,13 +108,13 @@ evently/
 
 ## :camera: Screenshots:
 
-![Modern UI/UX](/.github/images/img1.png "Modern UI/UX")
+![Modern UI/UX](https://ik.imagekit.io/unimzwtxr/img1.png?updatedAt=1731062870948 "Modern UI/UX")
 
-![Search Events](/.github/images/img2.png "Search Events")
+![Search Events](https://ik.imagekit.io/unimzwtxr/img2.png?updatedAt=1731062870381 "Search Events")
 
-![Organize Events](/.github/images/img3.png "Organize Events")
+![Organize Events](https://ik.imagekit.io/unimzwtxr/img3.png?updatedAt=1731062870037 "Organize Events")
 
-![Buy Tickets](/.github/images/img4.png "Buy Tickets")
+![Buy Tickets](https://ik.imagekit.io/unimzwtxr/img4.png?updatedAt=1731062870088 "Buy Tickets")
 
 ## :gear: Tech Stack
 
@@ -133,3 +134,5 @@ yarn dev
 pnpm dev
 # or
 bun dev
+```
+```
